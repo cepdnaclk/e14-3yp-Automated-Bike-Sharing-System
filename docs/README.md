@@ -195,7 +195,7 @@ Overall system design
 
 ### Documents  
   - [Project Report](data/documents/2.pdf)
-  - [User MAnual & Technical Note](data/documents/3.pdf)  
+  - [User Manual & Technical Note](data/documents/3.pdf)  
 
 
 
