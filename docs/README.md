@@ -14,9 +14,9 @@ title: Automated Bike Sharing System
 ---
 
 ## Team
--  E/14/154, JAYASUNDARA J.M.S.M., [e14154@eng.pdn.ac.lk](mailto:e14154@eng.pdn.ac.lk)
--  E/14/141, IHALAGEDARA I.P.S.B., [e14141@eng.pdn.ac.lk](mailto:e14141@eng.pdn.ac.lk)
--  E/14/194, LOKUGE S.D., [e14194@eng.pdn.ac.lk](mailto:e14194@eng.pdn.ac.lk)
+-  E/14/154, JAYASUNDARA J.M.S.M., [e14154@ce.pdn.ac.lk](mailto:e14154@ce.pdn.ac.lk)
+-  E/14/141, IHALAGEDARA I.P.S.B., [e14141@ce.pdn.ac.lk](mailto:e14141@ce.pdn.ac.lk)
+-  E/14/194, LOKUGE S.D., [e14194@ce.pdn.ac.lk](mailto:e14194@ce.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -206,7 +206,7 @@ Overall system design
 - <a href = "https://github.com/cepdnaclk/e14-3yp-Automated-Bike-Sharing-System" target = "_blank">Project Repository</a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Automated-Bike-Sharing-System/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
